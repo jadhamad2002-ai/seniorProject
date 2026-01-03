@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrExtraAmmoPerk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrExtraAmmoPerk",
+  "parent":{
+    "name":"enemy",
+    "path":"folders/scripts/enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

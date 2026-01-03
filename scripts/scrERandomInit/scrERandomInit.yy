@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrERandomInit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrERandomInit",
+  "parent":{
+    "name":"enemy",
+    "path":"folders/scripts/enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
