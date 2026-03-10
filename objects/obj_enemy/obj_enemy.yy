@@ -13,8 +13,8 @@
   "name":"obj_enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"2d topdown",
-    "path":"2d topdown.yyp",
+    "name":"enemy",
+    "path":"folders/obj/enemy.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -107,12 +107,9 @@ logo_text        = "By Jad Hamad";
 logo_y_offset    = -220;
 logo_scale       = 5;
 logo_angle       = 0;
-logo_radius_x    = 60;
+logo_radius_x    = 10;
 logo_radius_y    = 10;
-logo_angle_speed = 2;
+logo_angle_speed = 1.5;
 
-/// Obj_Control Create
 
-// ... your existing code ...
-
-score_submitted = false;   // <‑‑ add this
+score_submitted = false; 

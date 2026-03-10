@@ -10,8 +10,8 @@
   "name":"obj_DmgNumber",
   "overriddenProperties":[],
   "parent":{
-    "name":"2d topdown",
-    "path":"2d topdown.yyp",
+    "name":"obj",
+    "path":"folders/obj.yy",
   },
   "parentObjectId":null,
   "persistent":false,
